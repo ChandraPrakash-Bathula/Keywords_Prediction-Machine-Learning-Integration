@@ -1,6 +1,6 @@
 # Keywords_Prediction-Machine-Learning-Integration
  <h2>Keyword Prediction Model</h2>
-          <h3>Built the Model By:</h3>
+          <h3>With the Techniques:</h3>
           <ol>
             <li>Data Cleaning</li>
             <li>Removing Stopwords</li>
