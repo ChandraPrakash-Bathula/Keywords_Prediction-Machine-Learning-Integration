@@ -1,2 +1,9 @@
 # Keywords_Prediction-Machine-Learning-Integration
-Keyword Prediction Model        Built the Model By:        Data Cleaning        Removing Stopwords         Constructing Word2vec             Advancing to TF-IDF Weighted Word2vec
+ <h2>Keyword Prediction Model</h2>
+          <h3>Built the Model By:</h3>
+          <ol>
+            <li>Data Cleaning</li>
+            <li>Removing Stopwords</li>
+            <li>Constructing Word2vec</li>
+            <li>Advancing to TF-IDF Weighted Word2vec</li>
+          </ol>
