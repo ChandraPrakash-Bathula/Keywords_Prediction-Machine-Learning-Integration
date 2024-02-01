@@ -31,4 +31,4 @@ We welcome contributions and feedback from the community to enhance the function
 
 We acknowledge the contributions of the open-source community and the libraries utilized in this project, enabling us to build an efficient and effective keyword prediction model.
 
-Thank you for visiting our repository and exploring our Keyword Prediction Model! We hope it proves to be a valuable tool in your text analysis endeavors.
+Thank you for visiting the repository and exploring our Keyword Prediction Model! We hope it proves to be a valuable tool in your text analysis endeavors.
