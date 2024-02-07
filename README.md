@@ -7,7 +7,7 @@ Welcome to our Keyword Prediction model's GitHub repository! This project integr
 1. **Data Cleaning:**
    - We perform thorough data cleaning processes to preprocess the input text data, ensuring consistency and improving the quality of predictions.
 
-2. **Removing Stopwords:**
+2. **Removing Stopwords :**
    - Stopwords, commonly occurring words in a language, are removed from the text data to focus on meaningful keywords and improve the accuracy of predictions.
 
 3. **Constructing Word2vec:**
