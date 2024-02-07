@@ -10,13 +10,13 @@ Welcome to our Keyword Prediction model's GitHub repository! This project integr
 2. **Removing Stopwords :**
    - Stopwords, commonly occurring words in a language, are removed from the text data to focus on meaningful keywords and improve the accuracy of predictions.
 
-3. **Constructing Word2vec:**
+3. **Constructing Word2vec :**
    - Word2vec, a popular word embedding technique, is utilized to represent words in a continuous vector space. This allows our model to capture semantic similarities between words and enhance keyword prediction performance.
 
 4. **Advancing to TF-IDF Weighted Word2vec :**
    - TF-IDF (Term Frequency-Inverse Document Frequency) weighted Word2vec incorporates the importance of words based on their frequency and significance across documents. This advanced technique improves the precision of keyword predictions by considering the context and relevance of words.
 
-### How to Use:
+### How to Use :
 
 - Clone or download the repository to your local machine.
 - Install the required dependencies specified in the `requirements.txt` file.
