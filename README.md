@@ -13,7 +13,7 @@ Welcome to our Keyword Prediction model's GitHub repository! This project integr
 3. **Constructing Word2vec:**
    - Word2vec, a popular word embedding technique, is utilized to represent words in a continuous vector space. This allows our model to capture semantic similarities between words and enhance keyword prediction performance.
 
-4. **Advancing to TF-IDF Weighted Word2vec:**
+4. **Advancing to TF-IDF Weighted Word2vec :**
    - TF-IDF (Term Frequency-Inverse Document Frequency) weighted Word2vec incorporates the importance of words based on their frequency and significance across documents. This advanced technique improves the precision of keyword predictions by considering the context and relevance of words.
 
 ### How to Use:
