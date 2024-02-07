@@ -4,7 +4,7 @@ Welcome to our Keyword Prediction model's GitHub repository! This project integr
 
 ### Techniques Utilized :
 
-1. **Data Cleaning:**
+1. **Data Cleaning :**
    - We perform thorough data cleaning processes to preprocess the input text data, ensuring consistency and improving the quality of predictions.
 
 2. **Removing Stopwords :**
