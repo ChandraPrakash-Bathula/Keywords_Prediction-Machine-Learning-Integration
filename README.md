@@ -2,7 +2,7 @@
 
 Welcome to our Keyword Prediction model's GitHub repository! This project integrates a machine learning model for predicting keywords with a user-friendly interface, aiming to assist users in extracting relevant keywords from text data.
 
-### Techniques Utilized :**
+### Techniques Utilized :
 
 1. **Data Cleaning :**
    - We perform thorough data cleaning processes to preprocess the input text data, ensuring consistency and improving the quality of predictions.
@@ -25,7 +25,7 @@ Welcome to our Keyword Prediction model's GitHub repository! This project integr
 
 ### Contributions:
 
-We welcome contributions and feedback from the community to enhance the functionality and performance of our keyword prediction model. Please feel free to submit issues, pull requests, or suggestions via GitHub.
+We welcome contributions and feedback from the community to enhance the functionality and performance of our keyword prediction model. Please feel free to submit issues, pull requests, or suggestions via GitHub..!
 
 ### Acknowledgments:
 
