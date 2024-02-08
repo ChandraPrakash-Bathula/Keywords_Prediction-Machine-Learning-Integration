@@ -1,4 +1,4 @@
-# Keyword Prediction Model
+# Keywords Prediction Model
 
 Welcome to our Keyword Prediction model's GitHub repository! This project integrates a machine learning model for predicting keywords with a user-friendly interface, aiming to assist users in extracting relevant keywords from text data.
 
